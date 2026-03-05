@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <>
-      <h1>家計簿アプリ</h1>
+      <h1 className="text-xl">家計簿アプリ</h1>
 
       <form>
         <div>
@@ -66,6 +66,3 @@ const App = () => {
   );
 };
 export default App;
-
-// git config --global user.name {HaruyamaRiku}
-// git config --global user.email {shybatter@gmail.com}
